@@ -1,16 +1,16 @@
-### Hi there 👋
+# Carlos Jerônimo
 
-<!--
-**carlosasjeronimoo/carlosasjeronimoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou o Carlos Jerônimo, um entusiasta de tecnologia com foco em banco de dados e desenvolvimento.
 
-Here are some ideas to get you started:
+## 📚 Estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Banco de Dados
+- 🔍 Explorando modelagem de dados, SQL e sistemas de gerenciamento de banco de dados
+- 📘 Atualmente aprendendo sobre Power Bi, SQL, MySQL, Python
+- 
+## 🌐 Onde me encontrar
+
+- 📧 Email: jeronimo.carlos104@gmail.com
+- 💼 LinkedIn: [Carlos Jerônimo](https://www.linkedin.com/in/carlosasjeronimo/)
+
+🚀 Vamos explorar o mundo dos bancos de dados juntos!
